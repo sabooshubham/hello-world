@@ -3,7 +3,7 @@ The purpose of this problem is to verify whether the method you are using to rea
 
 Input:
 ------
-The input begins with two positive integers n k (n, k<=107). The next n lines of input contain one positive integer ti, not greater than 109, each.
+The input begins with two positive integers n k (n, k<=10^7). The next n lines of input contain one positive integer ti, not greater than 10^9, each.
 
 Output:
 ------
