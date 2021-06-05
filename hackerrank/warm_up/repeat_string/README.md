@@ -3,7 +3,7 @@
 There is a string, **_s_**, of lowercase English letters that is repeated infinitely many times. Given an integer, **_n_**, find and print the number of letter a's in the first  **_n_** letters of the infinite string.
 
 ## Example:
-s = 'abcac'
+s = 'abcac'\
 n = 10
 
 The substring we consider is **_abcacabcac_**, the first **_10_** characters of the infinite string. There are **_4_** occurrences of a in the substring.
