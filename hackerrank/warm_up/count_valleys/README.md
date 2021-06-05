@@ -7,7 +7,7 @@ An avid hiker keeps meticulous records of their hikes. During the last hike that
 Given the sequence of up and down steps during a hike, find and print the number of valleys walked through.
 
 ## Example:
-steps = 8
+steps = 8\
 path = [DDUUUUDD]
  
 The hiker first enters a valley **_2_** units deep. Then they climb out and up onto a mountain **_2_** units high. Finally, the hiker returns to sea level and ends the hike.
@@ -41,7 +41,9 @@ UDDDUDUU
 
 If we represent _ as sea level, a step up as /, and a step down as \, the hike can be drawn as:
 
+```
 _/\      _
    \    /
     \/\/
+```
 The hiker enters and leaves one valley.
