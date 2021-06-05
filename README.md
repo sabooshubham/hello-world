@@ -1,3 +1,3 @@
 # Competitive Programming
-Codechef\
-HackerRank
+* Codechef
+* HackerRank
