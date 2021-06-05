@@ -18,7 +18,7 @@ jumpingOnClouds has the following parameter(s):
 * int c[n]: an array of binary integers
 ## Returns:
 
-*int: the minimum number of jumps required
+* int: the minimum number of jumps required
 ## Input Format:
 
 The first line contains an integer **_n_**, the total number of clouds. The second line contains **_n_** space-separated binary integers describing clouds **_c[i]_** where **_0 <= i < n_**.
