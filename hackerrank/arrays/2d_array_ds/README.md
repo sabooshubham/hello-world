@@ -79,6 +79,7 @@ Print the largest (maximum) hourglass sum found in **_arr_**.
 
 **_arr_** contains the following hourglasses:
 
+![explanation image](https://github.com/sabooshubham/hello-world/blob/master/hackerrank/arrays/2d_array_ds/explanation-hourglasssum.png "Explanation Image")
 
 The hourglass with the maximum sum (19) is:
 
