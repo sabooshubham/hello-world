@@ -83,6 +83,6 @@ Print the largest (maximum) hourglass sum found in **_arr_**.
 
 The hourglass with the maximum sum (19) is:
 
-2 4 4
-  2
+2 4 4\
+  2\
 1 2 4
